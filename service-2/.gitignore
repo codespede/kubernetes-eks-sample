@@ -1,0 +1,9 @@
+node_modules
+src/config/config.json
+.env
+.swp
+dist/
+.adminbro
+static
+*.mp4
+*.m3u8
